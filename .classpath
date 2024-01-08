@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ActivitySquad2/src"/>
+	<classpathentry kind="src" path="Week1/javaInicio/src"/>
+	<classpathentry kind="src" path="Week1/Pedidos/src"/>
+	<classpathentry kind="src" path="Week1/Social/src"/>
+	<classpathentry kind="src" path="Week1/TrabalhadorContratos/src"/>
+	<classpathentry kind="src" path="Week1/Vetores/src"/>
+	<classpathentry kind="src" path="Week2/exceptions1"/>
+	<classpathentry kind="src" path="Week2/exceptions2"/>
+	<classpathentry kind="src" path="Week2/files1"/>
+	<classpathentry kind="src" path="Week2/inheritance/src"/>
+	<classpathentry kind="src" path="Week2/inheritance1/src"/>
+	<classpathentry kind="src" path="Week2/inheritance2/src"/>
+	<classpathentry kind="src" path="Week2/inheritance3/src"/>
+	<classpathentry kind="src" path="Week2/inheritance4/src"/>
+	<classpathentry kind="src" path="Week2/inheritance5/src"/>
+	<classpathentry kind="src" path="Week2/inheritance6/src"/>
+	<classpathentry kind="src" path="Week2/inheritance7/src"/>
+	<classpathentry kind="src" path="Week2/inheritance8/src"/>
+	<classpathentry kind="src" path="Week3/generics1"/>
+	<classpathentry kind="src" path="Week3/generics2"/>
+	<classpathentry excluding="generics3/" kind="src" path="Week3/generics3"/>
+	<classpathentry kind="src" path="Week3/generics3/generics3"/>
+	<classpathentry kind="src" path="Week3/Interfaces1"/>
+	<classpathentry kind="src" path="Week3/interfaces2"/>
+	<classpathentry kind="src" path="Week3/interfaces3"/>
+	<classpathentry kind="src" path="Week3/interfaces4"/>
+	<classpathentry kind="src" path="Week3/interfaces5"/>
+	<classpathentry kind="src" path="Week3/jdbc1"/>
+	<classpathentry kind="src" path="Week3/jdbc2-master/src"/>
+	<classpathentry kind="src" path="Week3/jdbc3-master/src"/>
+	<classpathentry kind="src" path="Week3/jdbc4-master/src"/>
+	<classpathentry kind="src" path="Week3/jdbc5-master/src"/>
+	<classpathentry kind="src" path="Week3/jdbc6-master/src"/>
+	<classpathentry kind="src" path="Week3/map1"/>
+	<classpathentry kind="src" path="Week3/set1"/>
+	<classpathentry kind="src" path="Week3/set2"/>
+	<classpathentry kind="output" path="ActivitySquad2/bin"/>
+</classpath>
