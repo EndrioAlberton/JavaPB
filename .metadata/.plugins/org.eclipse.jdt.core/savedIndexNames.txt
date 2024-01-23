@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+D:\Download\compass\JavaPB\.metadata\.plugins\org.eclipse.jdt.core
+3057240873.index
+2843628541.index
+3574203360.index
+3900031559.index
+1865797976.index
+3313483125.index
+2863993914.index
+7362704.index
+4278324737.index
+1249647679.index
+1833380203.index
+1405882016.index
