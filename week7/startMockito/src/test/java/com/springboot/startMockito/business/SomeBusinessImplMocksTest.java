@@ -13,7 +13,7 @@ import com.springboot.startMockito.SomeBusinessImpl;
 class SomeBusinessImplMocksTest {
 
 	@Mock
-	private dataService dataServiceMock;
+	private DataService dataServiceMock;
 	
 	@InjectMocks
 	private SomeBusinessImpl businessImpl;
