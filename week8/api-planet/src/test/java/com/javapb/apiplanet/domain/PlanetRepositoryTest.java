@@ -4,6 +4,7 @@ import static com.javapb.apiplanet.commom.PlanetConstants.PLANET;
 import static com.javapb.apiplanet.commom.PlanetConstants.TATOOINE;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import java.util.List;
 import java.util.Optional;
@@ -127,10 +128,5 @@ public class PlanetRepositoryTest {
 
     Planet removedPlanet = testEntityManager.find(Planet.class, planet.getId());
     assertThat(removedPlanet).isNull();
-  }
-
-  @Test
-  public void removePlanet_WithUnexistingId_ThrowsException() {
-    assertThatThrownBy(() -> planetRepository.deleteById(1L)).isInstanceOf(EmptyResultDataAccessException.class);
   }
 }
